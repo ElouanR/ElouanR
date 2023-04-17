@@ -30,5 +30,4 @@
   <h1>Some stats</h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElouanR&count_private=true&theme=holi-theme&border_radius=20)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouanR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
