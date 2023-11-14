@@ -30,4 +30,5 @@
   <h1>Some stats</h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElouanR&count_private=true&theme=holi-theme&border_radius=20)](https://git.io/streak-stats)
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElouanR&langs_count=5&border_radius=20&custom_title=Wakatime&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
