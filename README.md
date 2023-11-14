@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ElouanR/ElouanR/main/banner.png)
+![Banner](https://raw.githubusercontent.com/ElouanR/ElouanR/main/banner_github.png)
 
 <br>
 
