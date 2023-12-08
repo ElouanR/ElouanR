@@ -9,9 +9,7 @@
   ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
   ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-  ![HTML](https://img.shields.io/badge/HTML%205-000000?style=for-the-badge&logo=html5)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-  ![CSS](https://img.shields.io/badge/CSS%203-000000?style=for-the-badge&logo=css3)
   ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
   ![SQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
