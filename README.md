@@ -28,10 +28,8 @@
   <h1>Some stats</h1>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouanR&layout=donut&theme=holi&border_radius=20&size_weight=0.5&count_weight=0.5)
-  <br>
-  <br>
+  
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElouanR&layout=compact&langs_count=6&border_radius=20&custom_title=Wakatime&theme=holi)](https://wakatime.com/@ElouanR)
+  
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ElouanR&theme=holi-theme&border_radius=20&exclude_days=Sun)
-  <br>
-  <br>
-  <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElouanR&langs_count=5&border_radius=20&custom_title=Wakatime&theme=holi)](https://wakatime.com/@ElouanR)-->
 </div>
