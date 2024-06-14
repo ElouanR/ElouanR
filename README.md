@@ -27,7 +27,7 @@
   
   <h1>Some stats</h1>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouanR&layout=donut&theme=holi&border_radius=20&size_weight=0.5&count_weight=0.5)
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouanR&layout=donut&theme=holi&border_radius=20&size_weight=0.5&count_weight=0.5)-->
   
   <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElouanR&layout=compact&langs_count=6&border_radius=20&custom_title=Wakatime&theme=holi)](https://wakatime.com/@ElouanR)-->
   
