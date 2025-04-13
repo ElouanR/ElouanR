@@ -1,7 +1,3 @@
-![Banner](https://raw.githubusercontent.com/ElouanR/ElouanR/main/banner_github_rounded.png)
-
-<br>
-
 <div align="center">
 
   <h1>Languages</h1>
